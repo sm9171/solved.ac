@@ -1,0 +1,13 @@
+package bronze5;
+
+
+import java.util.Scanner;
+
+public class boj16394 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int num = sc.nextInt();
+        System.out.println(num-1946);
+    }
+}
+
